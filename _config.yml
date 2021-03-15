@@ -106,3 +106,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://futuristic-olive-f45c7.netlify.app'
